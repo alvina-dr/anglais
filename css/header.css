@@ -16,7 +16,8 @@ nav ul {
 	margin:0; /*décalage vers le bas*/
 	list-style-type:none;
 	position: absolute;
-	margin-top: 20px;
+    align-items: center;
+    height: 100%;
     margin-right: 2%;
 
 }
@@ -40,5 +41,7 @@ nav ul li a {
     font-weight: 500;
     font-size: 18px;
     text-decoration: none;
-    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    height: 100%;
 }

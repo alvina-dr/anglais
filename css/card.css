@@ -106,13 +106,15 @@ h1 {
   color: #fff;
   padding: 0.8em;
 }
-/*en fonction de la halte la couleur*/
+/*en fonction de la route la couleur*/
 .road-1 .zone {
   background-color: #77d7b9; 
 }
-
 .road-2 .zone {
   background-color: #d79a77; 
+}
+.road-3 .zone {
+  background-color: #b977d7; 
 }
 .zone span {
   display: block;
