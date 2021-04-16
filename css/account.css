@@ -1,0 +1,10 @@
+.row_account {
+    background-color: #a7474700;
+    height: 250px;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    align-items: space-around;
+    padding: 0;
+    margin: 0 auto;
+}

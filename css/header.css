@@ -1,25 +1,26 @@
 nav {
-background-color: rgb(31, 31, 31);
-   width: 100%;
-   height: 70px;
-   display: flex;
-   justify-content: flex-end;
-   position: fixed;
-   z-index: 10;
+    background-color: rgb(31, 31, 31);
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    z-index: 10;
 }
 
 nav ul {
     display: flex;
-	vertical-align:top;
+    vertical-align: top;
     list-style: none;
-    padding:0; /*décalage vers la droite*/
-	margin:0; /*décalage vers le bas*/
-	list-style-type:none;
-	position: absolute;
+    padding: 0;
+    /*décalage vers la droite*/
+    margin: 0;
+    /*décalage vers le bas*/
+    list-style-type: none;
+    position: absolute;
     align-items: center;
     height: 100%;
     margin-right: 2%;
-
 }
 
 nav ul li {

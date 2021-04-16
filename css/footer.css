@@ -1,0 +1,35 @@
+.endpage {
+    background-color: rgb(31, 31, 31);
+    margin: 0;
+    padding: 0;
+    position: fixed;
+}
+
+footer {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    z-index: 10;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+    /*décalage vers la droite*/
+    margin: 0;
+    /*décalage vers le bas*/
+    list-style-type: none;
+    text-align: center;
+    width: 100%;
+}
+
+footer ul li {
+    margin: 15 0px;
+}
+
+footer ul li a {
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+    text-decoration: none;
+}
