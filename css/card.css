@@ -157,11 +157,20 @@ h1 {
     font-size: 12px;
 }
 
-.halt_number {
+.road-1 .halt_number {
     position: absolute;
     top: 0;
     right: 0;
     color: #77d7b9;
+    padding: 10px;
+    margin-top: 0;
+}
+
+.road-2 .halt_number {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #d79a77;
     padding: 10px;
     margin-top: 0;
 }
