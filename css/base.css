@@ -111,3 +111,7 @@ body {
     border-radius: 20px;
     margin-right: 100px;
 }
+
+span {
+    font-weight: 700;
+}

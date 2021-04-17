@@ -45,4 +45,5 @@ nav ul li a {
     display: flex;
     align-items: center;
     height: 100%;
+    width: 50px;
 }
