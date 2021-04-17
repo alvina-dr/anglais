@@ -8,3 +8,15 @@
     padding: 0;
     margin: 0 auto;
 }
+
+.overlay {
+    background-color: green;
+}
+
+.popup {
+    background-color: white;
+}
+
+.btnClose {
+    background-color: blue;
+}
