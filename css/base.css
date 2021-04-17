@@ -86,6 +86,11 @@ body {
     align-items: space-around;
 }
 
+.half {
+    width: 200%;
+    height: 500px;
+}
+
 .row_button {
     width: 100%;
     display: flex;
