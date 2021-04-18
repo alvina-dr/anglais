@@ -149,6 +149,11 @@ h1 {
     background-color: #5781db;
 }
 
+.road-9 .zone {
+    /*UNIVERSE*/
+    background-color: #dbd957;
+}
+
 
 /*en fonction de la route la couleur FIN*/
 
@@ -171,6 +176,7 @@ h1 {
 }
 
 .road-1 .halt_number {
+    /*SLEEP*/
     position: absolute;
     top: 0;
     right: 0;
@@ -207,10 +213,21 @@ h1 {
 }
 
 .road-5 .halt_number {
+    /*UNIVERSE*/
     position: absolute;
     top: 0;
     right: 0;
     color: #5781db;
+    padding: 10px;
+    margin-top: 0;
+}
+
+.road-9 .halt_number {
+    /*FEELINGS*/
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #dbd957;
     padding: 10px;
     margin-top: 0;
 }
