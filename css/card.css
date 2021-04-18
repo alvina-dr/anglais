@@ -125,15 +125,28 @@ h1 {
 /*en fonction de la route la couleur*/
 
 .road-1 .zone {
+    /*SLEEP*/
     background-color: #77d7b9;
 }
 
 .road-2 .zone {
+    /*CYCLING*/
     background-color: #d79a77;
 }
 
 .road-3 .zone {
+    /*MATTER*/
     background-color: #b977d7;
+}
+
+.road-4 .zone {
+    /*EATING*/
+    background-color: #c96624;
+}
+
+.road-5 .zone {
+    /*UNIVERSE*/
+    background-color: #5781db;
 }
 
 
@@ -171,6 +184,33 @@ h1 {
     top: 0;
     right: 0;
     color: #d79a77;
+    padding: 10px;
+    margin-top: 0;
+}
+
+.road-3 .halt_number {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #b977d7;
+    padding: 10px;
+    margin-top: 0;
+}
+
+.road-4 .halt_number {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #c96624;
+    padding: 10px;
+    margin-top: 0;
+}
+
+.road-5 .halt_number {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #5781db;
     padding: 10px;
     margin-top: 0;
 }
