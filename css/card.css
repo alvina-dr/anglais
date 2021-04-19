@@ -149,13 +149,18 @@ h1 {
     background-color: #5781db;
 }
 
+.road-6 .zone {
+    /*BUILDINGS*/
+    background-color: #92da76;
+}
+
 .road-8 .zone {
-    /*UNIVERSE*/
+    /*TECHNIQUE*/
     background-color: #db5783;
 }
 
 .road-9 .zone {
-    /*UNIVERSE*/
+    /*FEELINGS*/
     background-color: #dbd957;
 }
 
@@ -227,8 +232,18 @@ h1 {
     margin-top: 0;
 }
 
+.road-6 .halt_number {
+    /*UNIVERSE*/
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #92da76;
+    padding: 10px;
+    margin-top: 0;
+}
+
 .road-8 .halt_number {
-    /*FEELINGS*/
+    /*TECHNIQUE*/
     position: absolute;
     top: 0;
     right: 0;
